@@ -1,0 +1,16 @@
+{
+  "name": "en_de",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
